@@ -1,13 +1,13 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wx050c41fd962b7611",
+"app_id": "wx6a595ffeafab7a12",
 # 公众号appSecret
-"app_secret": "8c732497d996d01f69d53922b3489025",
+"app_secret": "6cf251083cf86cfcc70bc36ecd5c0213",
 # 模板消息id
-"template_id": "Y1iDR6LuQztmdnZDiP0bLBfgHiFmWTxXZHjosdXMViY",
+"template_id": "mS2YKSd2yit1bwUgnvrhaBn_Dql4JRMZ5Gs9pPBBcPk",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oQUkI6g2onbFFQbvIZZY6s7WVpN4","oQUkI6kZ1BlbaOsCME1nEWdkReio"],
+"user": ["oXDLL53A6u3yGcD14HPsjkZy69Y4"],
 
 # 信息配置
 # 和风天气apikey
@@ -15,14 +15,13 @@
 # 天行数据apikey
 "tian_api": "875d87f48d7c869b12ad84671be5bccf",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region": "库尔勒",
+"region": "驻马店",
 # 生日1，在日期前加r代表农历生日
-"birthday1": {"name": "轩宝贝", "birthday": "2000-06-05"},
+"birthday1": {"name": "宝贝", "birthday": "1997-08-27"},
 # 生日2
-"birthday2": {"name": "晶", "birthday": "2002-02-18"},
 
 # 纪念日1，会计算累计时间，格式"YYYY-MM-DD"
-"commemoration_day1": "2020-12-31",
+"commemoration_day1": "2022-03-01",
 # 纪念日2，同上
 
 # 金句中文，留空默认显示金山的每日金句
